@@ -1,5 +1,6 @@
 body { font-family: 'Oxygen', sans-serif; font-size: 24px; max-width: 24rem; margin: 0px auto; padding: 0 0.5rem;}
 .fa { position: absolute; left: -4rem; }
+.fa-stack {position: absolute; }
 .logo { display: block; position: relative; left: 0; }
 .container { position: relative; margin-left: 5rem; margin-right: 0.5rem;}
 
